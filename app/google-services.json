@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "428628300922",
+    "firebase_url": "https://battle-commander-63699588.firebaseio.com",
+    "project_id": "battle-commander-63699588",
+    "storage_bucket": "battle-commander-63699588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428628300922:android:9f36f5417c7da39a",
+        "android_client_info": {
+          "package_name": "com.mobirix.battlefieldcommander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428628300922-nefj7qk9o63s7srp5pvbj0e8pdca1val.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobirix.battlefieldcommander",
+            "certificate_hash": "E51BC7A14704336F36AC4CEAA2C195236957E3FA"
+          }
+        },
+        {
+          "client_id": "428628300922-fnffu1f6cggb1tnn795sv3rdrsv0tc1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ0L-C68rxrM3Qq9gVgoSAvm4Bu6m_5c4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428628300922-fnffu1f6cggb1tnn795sv3rdrsv0tc1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
